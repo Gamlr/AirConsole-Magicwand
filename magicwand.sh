@@ -1,4 +1,4 @@
-#!/bin/bash -e
+#!/bin/sh -e
 
 mv index.html controller.html
 mv c2runtime.js c2runtimectrl.js
